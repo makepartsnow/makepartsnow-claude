@@ -1,10 +1,10 @@
 {
   "name": "make-parts-now",
   "displayName": "Make Parts Now",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quote and order custom 3D printed and CNC machined parts from your CAD files with Make Parts Now: the hosted Make Parts Now MCP server plus a quoting workflow skill.",
   "author": {
-    "name": "Make Parts Now",
+    "name": "MakePartsNow.com",
     "email": "orders@makepartsnow.com",
     "url": "https://makepartsnow.com"
   },
