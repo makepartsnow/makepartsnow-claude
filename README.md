@@ -1,8 +1,8 @@
-# Make Parts Now for Claude
+# Make Parts Now for Claude: instant 3D printing and CNC machining quotes
 
 ![Make Parts Now](assets/banner.png)
 
-The official Claude plugin from [Make Parts Now](https://makepartsnow.com). Ask Claude to quote a CAD file for 3D printing or CNC machining, change the quote, and get a link to order and pay on makepartsnow.com. It works in Claude chat, Cowork and Claude Code.
+The official Claude plugin from [MakePartsNow.com](https://makepartsnow.com), a US 3D printing and CNC machining service. Give Claude a CAD file (STL, STEP, 3MF or OBJ) and get an instant quote for custom parts and prototypes: SLS nylon (PA12), FDM plastic, or CNC-machined aluminum and brass, with the price and ship date for each production speed. Change the quantity, material, color, finish or speed, then get a link to order and pay on makepartsnow.com. It works in Claude chat, Cowork and Claude Code.
 
 The plugin bundles:
 
@@ -19,6 +19,8 @@ This repo is configuration only: no code runs on your machine.
   ```
   /plugin install make-parts-now --marketplace makepartsnow/makepartsnow-claude
   ```
+
+  Then quote a file in one step with `/make-parts-now:quote ./bracket.step 25 black nylon`.
 
   On Claude Code older than 2.1.275, run `/plugin marketplace add makepartsnow/makepartsnow-claude` first, then `/plugin install make-parts-now@makepartsnow`.
 

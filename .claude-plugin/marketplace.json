@@ -6,13 +6,13 @@
     "url": "https://makepartsnow.com"
   },
   "metadata": {
-    "description": "Make Parts Now's official plugin for Claude: quote and order 3D printed and CNC machined parts from your CAD files."
+    "description": "MakePartsNow.com's official plugin for Claude: instant 3D printing and CNC machining quotes and orders from your CAD files."
   },
   "plugins": [
     {
       "name": "make-parts-now",
       "source": "./",
-      "description": "Quote and order custom 3D printed and CNC machined parts from your CAD files with Make Parts Now."
+      "description": "Instant 3D printing and CNC machining quotes from your CAD files (STL, STEP, 3MF, OBJ): price and ship date for SLS nylon, FDM plastic, aluminum and brass parts made in the US. Change the quote and get a checkout link in the chat."
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 name: quote-parts
-description: Quote, change and order a custom 3D printed or CNC machined part from a CAD file (STL, STEP, 3MF, OBJ) with Make Parts Now, and check the status of Make Parts Now orders. Use when the user asks Make Parts Now (or asks to get a part 3D printed or machined) for a price, lead time or order from a CAD file, asks what Make Parts Now can make, or asks about an order they placed.
+description: Quote, change and order custom 3D printed or CNC machined parts from a CAD file (STL, STEP, 3MF, OBJ) with Make Parts Now (MakePartsNow.com), and check the status of Make Parts Now orders. Use when the user wants to 3D print, machine, manufacture or prototype a part, asks how much a part costs to make, wants a quote, price or lead time for SLS nylon, FDM plastic, aluminum or brass parts, asks what Make Parts Now can make, or asks about an order they placed.
 ---
 
 # Make Parts Now
