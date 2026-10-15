@@ -1,7 +1,7 @@
 {
   "name": "make-parts-now",
   "displayName": "Make Parts Now",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Instant 3D printing and CNC machining quotes from your CAD files (STL, STEP, 3MF, OBJ): price and ship date for SLS nylon, FDM plastic, aluminum and brass parts made in the US. Change the quote and get a checkout link in the chat.",
   "author": {
     "name": "MakePartsNow.com",

@@ -11,6 +11,18 @@ The plugin bundles:
 
 This repo is configuration only: no code runs on your machine.
 
+## How it looks in Claude chat
+
+Ask for a quote and Make Parts Now's upload box appears in the conversation. Drop in your CAD file:
+
+![The Make Parts Now upload box in Claude chat](assets/upload-box.png)
+
+Claude then shows the quote as a card: your part, the material and finish, and the price and ship date for each production speed. Pick a speed and press Order: your choice goes into the message box, and when you send it, Claude creates the checkout link to pay on makepartsnow.com. Nothing is ordered until you pay there.
+
+![A Make Parts Now quote card in Claude chat](assets/quote-card.png)
+
+In Claude Code and other places without these cards, Claude shows the same quote as text.
+
 ## Install
 
 - **Claude chat and Cowork:** add Make Parts Now from the [Claude directory](https://claude.ai/directory) once it's listed. Until then, add a custom connector with the URL `https://makepartsnow.com/mcp/assistant`.
