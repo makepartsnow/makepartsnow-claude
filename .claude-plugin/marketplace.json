@@ -1,0 +1,18 @@
+{
+  "name": "makepartsnow",
+  "owner": {
+    "name": "Make Parts Now",
+    "email": "orders@makepartsnow.com",
+    "url": "https://makepartsnow.com"
+  },
+  "metadata": {
+    "description": "Make Parts Now's official plugin for Claude: quote and order 3D printed and CNC machined parts from your CAD files."
+  },
+  "plugins": [
+    {
+      "name": "make-parts-now",
+      "source": "./",
+      "description": "Quote and order custom 3D printed and CNC machined parts from your CAD files with Make Parts Now."
+    }
+  ]
+}
