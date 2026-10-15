@@ -1,7 +1,7 @@
 {
   "name": "make-parts-now",
   "displayName": "Make Parts Now",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quote and order custom 3D printed and CNC machined parts from your CAD files with Make Parts Now: the hosted Make Parts Now MCP server plus a quoting workflow skill.",
   "author": {
     "name": "Make Parts Now",
@@ -11,5 +11,19 @@
   "homepage": "https://makepartsnow.com/developers#ai-assistants",
   "repository": "https://github.com/makepartsnow/makepartsnow-claude",
   "license": "MIT",
-  "keywords": ["3d printing", "cnc machining", "custom parts", "manufacturing", "quote", "cad", "stl", "step"]
+  "keywords": [
+    "3d printing",
+    "cnc machining",
+    "custom parts",
+    "manufacturing",
+    "quote",
+    "cad",
+    "stl",
+    "step"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/makepartsnow/makepartsnow-claude#readme",
+  "supportUrl": "https://makepartsnow.com/contact",
+  "privacyPolicyUrl": "https://makepartsnow.com/legal/privacy",
+  "termsOfServiceUrl": "https://makepartsnow.com/legal/terms"
 }
